@@ -1,2 +1,5 @@
-var main = require('./resources/path.join');
-main();
+module.exports = (self) => ([
+  'path.join',
+  'path.normalize',
+  'path.resolve',
+]);
