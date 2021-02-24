@@ -1,5 +1,24 @@
+design
+self.main resource.main proxy
+---
+
+do a throttle as e.g.
+- how to add to toolbox
+and how to  reference it
+
+---
+
+path.joinANDOrresolve
+
+---
+
+resourc merge pattern
+what can be  done  w/ status dd
 
 
 ---
 
 make sure i...
+- ./lib semantics (core??)
+
+---
